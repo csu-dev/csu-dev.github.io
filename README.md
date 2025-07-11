@@ -1,15 +1,15 @@
-# Projeto csudev.github.io
+## Landing-page: csudev.github.io 
 
-Este repositório contém o código-fonte do site Sciarbel, que apresenta serviços e produtos na área de desenvolvimento web.
+This repository contains the source code for the csu-dev website, which showcases web development services and products.
 
-## Estrutura do Projeto
+## "Project Structure" 
 
 ```
 sciarbel.github.io
 ├── css
-│   └── style.css          # Estilos CSS para o site
+│   └── style.css          # CSS styles for the website
 ├── js
-│   └── script.js         # Código JavaScript para funcionalidades interativas
-├── index.html            # Página principal do site
-└── README.md             # Documentação do projeto
+│   └── script.js          # JavaScript code for interactive features
+├── index.html             # Main page of the website
+└── README.md              # Project documentation
 ```
